@@ -1,0 +1,11 @@
+{
+  "name": "package-wgs-bootcamp-10",
+  "version": "1.0.0",
+  "description": "Web Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathanure",
+  "license": "ISC"
+}
